@@ -1,3 +1,5 @@
+# This demo is obsolete, take a look at [Apipie-demo](https://github.com/iNecas/apipie-demo) instead
+
 # Restapi Usage Example Application
 
 This is a sample Rails application demonstrating the features of the
